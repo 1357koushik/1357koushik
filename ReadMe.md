@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working AdeptRag<br>🌱 I’m currently learning MultiAgents
+🔭 I’m currently working on AdeptRag<br>🌱 I’m currently learning MultiAgents
 
 
 ## 🌐 Socials:
