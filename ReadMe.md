@@ -1,56 +1,5 @@
-
-
-<!-- CHROME MATERIAL YOU AMBIENT EDGE-GLOW BANNER -->
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="auto" style="background: #121316; border-radius: 20px;">
-    <defs>
-      <!-- Blur Filter for Gaussian Ambient Glow -->
-      <filter id="ultra-blur" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="90" />
-      </filter>
-
-      <!-- Radial Gradients for Corner Spheres -->
-      <radialGradient id="glow-blue" cx="0%" cy="0%" r="100%">
-        <stop offset="0%" stop-color="#4285f4" stop-opacity="0.8" />
-        <stop offset="100%" stop-color="#121316" stop-opacity="0" />
-      </radialGradient>
-
-      <radialGradient id="glow-purple" cx="100%" cy="100%" r="100%">
-        <stop offset="0%" stop-color="#a855f7" stop-opacity="0.75" />
-        <stop offset="100%" stop-color="#121316" stop-opacity="0" />
-      </radialGradient>
-
-      <radialGradient id="glow-coral" cx="100%" cy="0%" r="100%">
-        <stop offset="0%" stop-color="#ea4335" stop-opacity="0.45" />
-        <stop offset="100%" stop-color="#121316" stop-opacity="0" />
-      </radialGradient>
-    </defs>
-
-    <!-- Edge-Tethered Blurred Spheres (Mostly off-canvas) -->
-    <circle cx="-100" cy="-100" r="320" fill="url(#glow-blue)" filter="url(#ultra-blur)" />
-    <circle cx="1300" cy="420" r="350" fill="url(#glow-purple)" filter="url(#ultra-blur)" />
-    <circle cx="1300" cy="-100" r="280" fill="url(#glow-coral)" filter="url(#ultra-blur)" />
-
-    <!-- Chrome Header Text & Subtitle -->
-    <text x="50%" y="120" text-anchor="middle" fill="#e3e2e6" font-family="'Roboto', 'Segoe UI', sans-serif" font-size="38" font-weight="400" letter-spacing="-0.5">
-      Hi There, I'm Koushik Moram!
-    </text>
-    
-    <text x="50%" y="170" text-anchor="middle" fill="#a8c7fa" font-family="'Fira Code', monospace" font-size="20" font-weight="500">
-      CSE Student @ IIT Gandhinagar • Building AdeptRAG
-    </text>
-
-    <!-- Chrome Pill Buttons Container -->
-    <g transform="translate(425, 210)">
-      <!-- Pill Card 1 -->
-      <rect x="0" y="0" width="160" height="48" rx="24" fill="#1e1f23" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-      <text x="80" y="29" text-anchor="middle" fill="#c4c6d0" font-family="'Roboto', sans-serif" font-size="14" font-weight="500">💻 Systems & AI</text>
-      
-      <!-- Pill Card 2 -->
-      <rect x="190" y="0" width="160" height="48" rx="24" fill="#1e1f23" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-      <text x="270" y="29" text-anchor="middle" fill="#c4c6d0" font-family="'Roboto', sans-serif" font-size="14" font-weight="500">⚡ Open Source</text>
-    </g>
-  </svg>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 320' width='100%' height='auto' style='background:%23121316;border-radius:20px;'><defs><filter id='ultra-blur' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='90'/></filter><radialGradient id='glow-blue' cx='0%' cy='0%' r='100%'><stop offset='0%' stop-color='%234285f4' stop-opacity='0.85'/><stop offset='100%' stop-color='%23121316' stop-opacity='0'/></radialGradient><radialGradient id='glow-purple' cx='100%' cy='100%' r='100%'><stop offset='0%' stop-color='%23a855f7' stop-opacity='0.8'/><stop offset='100%' stop-color='%23121316' stop-opacity='0'/></radialGradient><radialGradient id='glow-coral' cx='100%' cy='0%' r='100%'><stop offset='0%' stop-color='%23ea4335' stop-opacity='0.45'/><stop offset='100%' stop-color='%23121316' stop-opacity='0'/></radialGradient></defs><circle cx='-100' cy='-100' r='350' fill='url(%23glow-blue)' filter='url(%23ultra-blur)'/><circle cx='1300' cy='420' r='380' fill='url(%23glow-purple)' filter='url(%23ultra-blur)'/><circle cx='1300' cy='-100' r='300' fill='url(%23glow-coral)' filter='url(%23ultra-blur)'/><text x='50%' y='120' text-anchor='middle' fill='%23e3e2e6' font-family='Roboto, Segoe UI, sans-serif' font-size='38' font-weight='400' letter-spacing='-0.5'>Hi There, I'm Koushik Moram!</text><text x='50%' y='170' text-anchor='middle' fill='%23a8c7fa' font-family='Fira Code, monospace' font-size='20' font-weight='500'>CSE Student @ IIT Gandhinagar • Building AdeptRAG</text><g transform='translate(425, 210)'><rect x='0' y='0' width='160' height='48' rx='24' fill='%231e1f23' stroke='rgba(255,255,255,0.08)' stroke-width='1'/><text x='80' y='29' text-anchor='middle' fill='%23c4c6d0' font-family='Roboto, sans-serif' font-size='14' font-weight='500'>💻 Systems %26 AI</text><rect x='190' y='0' width='160' height='48' rx='24' fill='%231e1f23' stroke='rgba(255,255,255,0.08)' stroke-width='1'/><text x='270' y='29' text-anchor='middle' fill='%23c4c6d0' font-family='Roboto, sans-serif' font-size='14' font-weight='500'>⚡ Open Source</text></g></svg>" width="100%" />
 </div>
   <!-- TYPING SVG ANIMATION -->
   <a href="https://git.io/typing-svg">
