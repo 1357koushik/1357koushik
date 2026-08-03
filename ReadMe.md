@@ -15,9 +15,10 @@
   </p>
 </div>
 
-<br />
-
----
+<!-- ANIMATED AMBIENT STAR / PARTICLE FIELD DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=40&animation=twinkle" width="100%" />
+</div>
 
 ### 💫 About Me
 
@@ -29,7 +30,10 @@
 
 <br />
 
----
+<!-- DYNAMIC NEON GRID PARTICLE BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f2937,100:0d1117&height=50&animation=twinkle" width="100%" />
+</div>
 
 ### 🌐 Connect & Socials
 
@@ -41,7 +45,10 @@
   <a href="mailto:1357koushik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<!-- SPACE WAVE ANIMATION DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:38bdf8&height=40&section=header&animation=fadeIn" width="100%" />
+</div>
 
 ### 💻 Tech Stack & Arsenal
 
@@ -77,26 +84,32 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" />
 </p>
 
----
+<!-- AMBIENT TWINKLE DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=30&animation=twinkle" width="100%" />
+</div>
 
 ### 📊 GitHub Dynamic Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=1357koushik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1357koushik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1357koushik&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1357koushik&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1357koushik&theme=tokyonight&hide_border=true" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1357koushik&theme=tokyonight" width="96%" />
 </div>
 
----
+<!-- GLOW DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:38bdf8,100:0d1117&height=30&animation=fadeIn" width="100%" />
+</div>
 
 ### 🐍 Contribution Grid Snake
 
