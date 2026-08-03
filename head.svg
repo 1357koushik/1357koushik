@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="auto">
+  <defs>
+    <!-- Extreme Gaussian Blur for true ambient mesh -->
+    <filter id="mesh-blur" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="120" />
+    </filter>
+
+    <clipPath id="card-clip">
+      <rect width="1200" height="320" rx="16" ry="16" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card-clip)">
+    <!-- 1. Deep Charcoal Base Canvas -->
+    <rect width="1200" height="320" fill="#141517" />
+
+    <!-- 2. Extreme Edge Blurred Light Sources -->
+    <g filter="url(#mesh-blur)">
+      <!-- Left Wall: Muted Forest Green (Pushed halfway off-screen left) -->
+      <ellipse cx="-50" cy="160" rx="250" ry="400" fill="#133d2b" opacity="0.95" />
+
+      <!-- Top Right: Dusky Rose/Mauve (Pushed halfway off-screen top-right) -->
+      <ellipse cx="1150" cy="-50" rx="450" ry="300" fill="#4a2536" opacity="0.85" />
+
+      <!-- Bottom Left: Dark Teal (Guest mode glow) -->
+      <ellipse cx="50" cy="380" rx="350" ry="200" fill="#123d42" opacity="0.75" />
+    </g>
+
+    <!-- 3. Center Vignette / Dimmer Layer -->
+    <!-- This is the crucial step: it forces the center to remain dark charcoal, 
+         exactly like the dead space behind the profile icons in your screenshot. -->
+    <ellipse cx="600" cy="160" rx="700" ry="300" fill="#141517" opacity="0.55" />
+
+    <!-- Typography -->
+    <text x="50%" y="125" text-anchor="middle" fill="#f1f3f4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="600" letter-spacing="-0.3">
+      Hi There, I'm Koushik Moram!
+    </text>
+    
+    <text x="50%" y="175" text-anchor="middle" fill="#9aa0a6" font-family="'Fira Code', monospace" font-size="18" font-weight="400">
+      CSE Student @ IIT Gandhinagar • Building AdeptRAG
+    </text>
+
+    <!-- Chrome Style Pill Badges -->
+    <g transform="translate(425, 215)">
+      <rect x="0" y="0" width="160" height="40" rx="20" fill="#202124" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+      <text x="80" y="25" text-anchor="middle" fill="#e8eaed" font-family="-apple-system, sans-serif" font-size="14" font-weight="500">💻 Systems &amp; AI</text>
+      
+      <rect x="190" y="0" width="160" height="40" rx="20" fill="#202124" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+      <text x="270" y="25" text-anchor="middle" fill="#e8eaed" font-family="-apple-system, sans-serif" font-size="14" font-weight="500">⚡ Open Source</text>
+    </g>
+  </g>
+</svg>
