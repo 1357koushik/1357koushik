@@ -1,4 +1,4 @@
-<!-- HEADER ANIMATION (Capsule Render) -->
+<!-- HEADER ANIMATION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,5,30&height=220&section=header&text=Hi%20There,%20I'm%20Koushik%20Moram!&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
 
@@ -15,25 +15,31 @@
   </p>
 </div>
 
-<!-- ANIMATED AMBIENT STAR / PARTICLE FIELD DIVIDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=40&animation=twinkle" width="100%" />
-</div>
+<br />
+
+---
 
 ### 💫 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-* 🎓 B.Tech Computer Science Student at **IIT Gandhinagar**
-* 🔭 **Current Focus:** Building **[AdeptRAG](https://github.com/1357koushik/AdeptRag)** (Intelligent Hybrid Graph & Vector RAG)
-* 🌱 **Exploring:** Distributed Systems, Advanced Database Engines & LLM Systems
+<!-- TABLE WRAPPER WITH PARTICLE WEB BACKGROUND EFFECT -->
+<table background="https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.gif" width="100%">
+  <tr>
+    <td>
+      <img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      <br />
+      <ul>
+        <li>🎓 B.Tech Computer Science Student at <b>IIT Gandhinagar</b></li>
+        <li>🔭 <b>Current Focus:</b> Building <b><a href="https://github.com/1357koushik/AdeptRag">AdeptRAG</a></b> (Intelligent Hybrid Graph & Vector RAG)</li>
+        <li>🌱 <b>Exploring:</b> Distributed Systems, Advanced Database Engines & LLM Systems</li>
+      </ul>
+      <br />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<!-- DYNAMIC NEON GRID PARTICLE BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f2937,100:0d1117&height=50&animation=twinkle" width="100%" />
-</div>
+---
 
 ### 🌐 Connect & Socials
 
@@ -45,49 +51,50 @@
   <a href="mailto:1357koushik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- SPACE WAVE ANIMATION DIVIDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:38bdf8&height=40&section=header&animation=fadeIn" width="100%" />
-</div>
+---
 
 ### 💻 Tech Stack & Arsenal
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,aws,gcp,flask,vite,firebase,mysql,mongodb,sqlite,docker,git,github,arduino,blender,figma&perline=9" />
-  </a>
-</p>
+<!-- NEON / MATRIX FLOATING BACKGROUND TABLE -->
+<table background="https://user-images.githubusercontent.com/18251210/43033526-2a440938-8cc6-11e8-971c-3e390c50280f.gif" width="100%">
+  <tr>
+    <td align="center">
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,cpp,c,aws,gcp,flask,vite,firebase,mysql,mongodb,sqlite,docker,git,github,arduino,blender,figma&perline=9" />
+      </a>
+      <br /><br />
+      <!-- DETAILED BADGES -->
+      <p align="center">
+        <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" />
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" />
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" />
+      </p>
+      <br />
+    </td>
+  </tr>
+</table>
 
-<!-- DETAILED BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" />
-</p>
-
-<!-- AMBIENT TWINKLE DIVIDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=30&animation=twinkle" width="100%" />
-</div>
+---
 
 ### 📊 GitHub Dynamic Analytics
 
@@ -106,10 +113,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1357koushik&theme=tokyonight" width="96%" />
 </div>
 
-<!-- GLOW DIVIDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:38bdf8,100:0d1117&height=30&animation=fadeIn" width="100%" />
-</div>
+---
 
 ### 🐍 Contribution Grid Snake
 
