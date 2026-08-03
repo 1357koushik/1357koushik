@@ -21,7 +21,6 @@
 
 ### 💫 About Me
 
-<!-- TABLE WRAPPER WITH PARTICLE WEB BACKGROUND EFFECT -->
 <table background="https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.gif" width="100%">
   <tr>
     <td>
@@ -55,7 +54,6 @@
 
 ### 💻 Tech Stack & Arsenal
 
-<!-- NEON / MATRIX FLOATING BACKGROUND TABLE -->
 <table background="https://user-images.githubusercontent.com/18251210/43033526-2a440938-8cc6-11e8-971c-3e390c50280f.gif" width="100%">
   <tr>
     <td align="center">
@@ -64,7 +62,6 @@
         <img src="https://skillicons.dev/icons?i=python,cpp,c,aws,gcp,flask,vite,firebase,mysql,mongodb,sqlite,docker,git,github,arduino,blender,figma&perline=9" />
       </a>
       <br /><br />
-      <!-- DETAILED BADGES -->
       <p align="center">
         <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
@@ -109,8 +106,8 @@
 <br />
 
 <div align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1357koushik&theme=tokyonight" width="96%" />
+  <!-- Official Working Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=1357koushik&theme=tokyonight&hide_border=false" width="96%" />
 </div>
 
 ---
@@ -125,11 +122,7 @@
 
 ---
 
-### 🧱 3D Contribution City & Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=1357koushik&theme=dark" width="100%" />
-</p>
+### 📈 Activity Metrics & Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1357koushik&theme=react-dark&hide_border=true" width="100%" />
