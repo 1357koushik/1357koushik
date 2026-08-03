@@ -23,7 +23,6 @@
 <table width="100%">
   <tr>
     <td>
-      <img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
       <br />
       <ul>
         <li>🎓 B.Tech Computer Science Student at <b>IIT Gandhinagar</b></li>
