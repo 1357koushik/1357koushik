@@ -1,7 +1,57 @@
-<!-- HEADER ANIMATION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,5,30&height=220&section=header&text=Hi%20There,%20I'm%20Koushik%20Moram!&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
 
+
+<!-- CHROME MATERIAL YOU AMBIENT EDGE-GLOW BANNER -->
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="auto" style="background: #121316; border-radius: 20px;">
+    <defs>
+      <!-- Blur Filter for Gaussian Ambient Glow -->
+      <filter id="ultra-blur" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="90" />
+      </filter>
+
+      <!-- Radial Gradients for Corner Spheres -->
+      <radialGradient id="glow-blue" cx="0%" cy="0%" r="100%">
+        <stop offset="0%" stop-color="#4285f4" stop-opacity="0.8" />
+        <stop offset="100%" stop-color="#121316" stop-opacity="0" />
+      </radialGradient>
+
+      <radialGradient id="glow-purple" cx="100%" cy="100%" r="100%">
+        <stop offset="0%" stop-color="#a855f7" stop-opacity="0.75" />
+        <stop offset="100%" stop-color="#121316" stop-opacity="0" />
+      </radialGradient>
+
+      <radialGradient id="glow-coral" cx="100%" cy="0%" r="100%">
+        <stop offset="0%" stop-color="#ea4335" stop-opacity="0.45" />
+        <stop offset="100%" stop-color="#121316" stop-opacity="0" />
+      </radialGradient>
+    </defs>
+
+    <!-- Edge-Tethered Blurred Spheres (Mostly off-canvas) -->
+    <circle cx="-100" cy="-100" r="320" fill="url(#glow-blue)" filter="url(#ultra-blur)" />
+    <circle cx="1300" cy="420" r="350" fill="url(#glow-purple)" filter="url(#ultra-blur)" />
+    <circle cx="1300" cy="-100" r="280" fill="url(#glow-coral)" filter="url(#ultra-blur)" />
+
+    <!-- Chrome Header Text & Subtitle -->
+    <text x="50%" y="120" text-anchor="middle" fill="#e3e2e6" font-family="'Roboto', 'Segoe UI', sans-serif" font-size="38" font-weight="400" letter-spacing="-0.5">
+      Hi There, I'm Koushik Moram!
+    </text>
+    
+    <text x="50%" y="170" text-anchor="middle" fill="#a8c7fa" font-family="'Fira Code', monospace" font-size="20" font-weight="500">
+      CSE Student @ IIT Gandhinagar • Building AdeptRAG
+    </text>
+
+    <!-- Chrome Pill Buttons Container -->
+    <g transform="translate(425, 210)">
+      <!-- Pill Card 1 -->
+      <rect x="0" y="0" width="160" height="48" rx="24" fill="#1e1f23" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+      <text x="80" y="29" text-anchor="middle" fill="#c4c6d0" font-family="'Roboto', sans-serif" font-size="14" font-weight="500">💻 Systems & AI</text>
+      
+      <!-- Pill Card 2 -->
+      <rect x="190" y="0" width="160" height="48" rx="24" fill="#1e1f23" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+      <text x="270" y="29" text-anchor="middle" fill="#c4c6d0" font-family="'Roboto', sans-serif" font-size="14" font-weight="500">⚡ Open Source</text>
+    </g>
+  </svg>
+</div>
   <!-- TYPING SVG ANIMATION -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CSE+Student+@+IIT+Gandhinagar;Building+AdeptRAG;Systems+%26+Backend+Developer;AI+%26+Database+Enthusiast" alt="Typing SVG" />
