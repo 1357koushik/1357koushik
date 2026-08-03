@@ -20,7 +20,7 @@
 
 ### 💫 About Me
 
-<table background="https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.gif" width="100%">
+<table width="100%">
   <tr>
     <td>
       <img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
